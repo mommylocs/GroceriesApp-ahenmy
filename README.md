@@ -1,5 +1,5 @@
 # Groceries Server and App
-This is a basic app to create a Grocery List
+This is a basic Ionic app that creates a Grocery List
 
 ### How to run?
 1.  Unzip file
