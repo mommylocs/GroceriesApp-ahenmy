@@ -3,11 +3,8 @@ This is a basic Ionic app that creates a Grocery List
 
 ### How to run?
 1.  Unzip file
-
-2. Point command line to folder where repo was cloned
-
+2. Point command line to folder where file was unzipped
 3. Type "ionic serve" to open app.
-
 4. In another cmd window change directories to groceries-server folder.
 5. Run "mongod" to start the MongoDB server
 6. Run "mongo groceries" to use groceries database
